@@ -2,10 +2,10 @@
 
 # Table of Contents
 
-- [Common Conversions](#common-gis-conversions)
-  - [Common Distance Units](#common-gis-distance-units)
-  - [Common Linear Conversions](#common-gis-linear-conversions)
-  - [Common Areal Conversions](#common-gis-areal-conversions)
+- [Common GIS Conversions](#common-gis-conversions)
+  - [Common GIS Distance Units](#common-gis-distance-units)
+  - [Common GIS Linear Conversions](#common-gis-linear-conversions)
+  - [Common GIS Areal Conversions](#common-gis-areal-conversions)
   - [Common Temperature Conversions](#common-temperature-conversions)
   - [Geographic Unit Conversions](#geographic-unit-conversions)
 - [U.S. Public Land Survey System (PLSS)](#us-public-land-survey-system)
