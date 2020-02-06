@@ -18,8 +18,6 @@
 # Common GIS Conversions
 
 ## Common GIS Distance Units
-<details>
-<summary><b>Expand Table</b></summary>
 
 | Unit | ArcMap Abbrev | Meters/Unit |
 | --- | :---: | :---: |
@@ -41,8 +39,6 @@
 | Rod, US Survey | rdUS | 5.0292100584 |
 | Yard | yd | 0.9144 |
 | Yard, US Survey | ydUS | 0.9144018288 |
-
-</details>
 
 ## Common Unit Conversions
 | Min Sec | DD Fraction |
