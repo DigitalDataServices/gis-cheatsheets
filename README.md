@@ -110,13 +110,9 @@
 # US Public Land Survey System (PLSS)
 
 ### PLSS Meridians of the conterminous United States
-
+![PLSS Meridians](./imgs/plss_meridians.png)
 <div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
 ### Township and Section subdivision and numbering in PLSS
 ![PLSS Subdivision and Numbering](./imgs/plss-subdivision-numbering.png)
-<div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
-
-### Township and Section subdivision and numbering in PLSS 2
-![PLSS Subdivision and Numbering](./imgs/plss-subdivision-numbering.svg)
 <div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
