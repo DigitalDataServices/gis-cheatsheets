@@ -2,9 +2,6 @@
 
 # Table of Contents
 
-<details>
-<summary><b>Expand Table of Contents</b></summary>
-
 - [Common Conversions](#common-gis-conversions)
   - [Common Distance Units](#common-gis-distance-units)
   - [Common Linear Conversions](#common-gis-linear-conversions)
@@ -13,7 +10,6 @@
   - [Geographic Unit Conversions](#geographic-unit-conversions)
 - [U.S. Public Land Survey System (PLSS)](#us-public-land-survey-system)
 
-</details>
 
 # Common GIS Conversions
 
