@@ -8,12 +8,14 @@
   - [Common GIS Areal Conversions](#common-gis-areal-conversions)
   - [Common Temperature Conversions](#common-temperature-conversions)
   - [Geographic Unit Conversions](#geographic-unit-conversions)
-- [U.S. Public Land Survey System (PLSS)](#us-public-land-survey-system)
+- [U.S. Public Land Survey System (PLSS)](#us-public-land-survey-system-plss)
+  - [PLSS Meridians of the conterminous United States](#plss-meridians-of-the-conterminous-united-states)
+  - [Township and Section subdivision and numbering in PLSS](#township-and-section-subdivision-and-numbering-in-plss)
 
 
 # Common GIS Conversions
 
-## Common GIS Distance Units
+### Common GIS Distance Units
 
 | Unit | ArcMap Abbrev | Meters/Unit |
 | --- | :---: | :---: |
@@ -36,9 +38,9 @@
 | Yard | yd | 0.9144 |
 | Yard, US Survey | ydUS | 0.9144018288 |
 
-<div align="right"><a href="#table-of-contents">Table of Contents</a></div>
+<div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
-## Common GIS Linear Conversions
+### Common GIS Linear Conversions
 
 | Linear Conversions | |
 | --- | :---: |
@@ -66,9 +68,9 @@
 | 1 kilometer | 0.621371192 miles |
 | 1 kilometer | 3,280.8399 feet |
 
-<div align="right"><a href="#table-of-contents">Table of Contents</a></div>
+<div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
-## Common GIS Areal Conversions
+### Common GIS Areal Conversions
 | Area Conversions | |
 | --- | :---: |
 | 1 foot<sup>2</sup> | 0.092003 meters<sup>2</sup> |
@@ -87,20 +89,30 @@
 | 1 kilometer<sup>2</sup> | 10,763,910.4 feet<sup>2</sup> |
 | 1 kilometer<sup>2</sup> | 1,000,000 meters<sup>2</sup> |
 
-<div align="right"><a href="#table-of-contents">Table of Contents</a></div>
+<div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
-## Common Temperature Conversions
+### Common Temperature Conversions
+| Conversion | Formula |
+| --- | :---: |
+| Celsius to Farenheit | (5/9)*((&deg;F)-32) |
+| Farenheit to Celsius | ((9/5)*(&deg;C))+32
+
+<div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
+
+### Geographic Unit Conversions
+
 | Min Sec | DD Fraction |
 | :---: | :---: |
 | 2'30" | 0.041667 |
 
-<div align="right"><a href="#table-of-contents">Table of Contents</a></div>
+<div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
-## Geographic Unit Conversions
+# US Public Land Survey System (PLSS)
 
-| Min Sec | DD Fraction |
-| :---: | :---: |
-| 2'30" | 0.041667 |
+### PLSS Meridians of the conterminous United States
 
-<div align="right"><a href="#table-of-contents">Table of Contents</a></div>
+<div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
+### Township and Section subdivision and numbering in PLSS
+
+<div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
