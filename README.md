@@ -114,6 +114,5 @@
 <div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
 ### Township and Section subdivision and numbering in PLSS
-![PLSS Subdivision and Numbering](./imgs/plss-subdivison-numbering.svg)
-<img src="./imgs/plss-subdivison-numbering.svg">
+![PLSS Subdivision and Numbering](./imgs/plss-subdivision-numbering.png)
 <div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
