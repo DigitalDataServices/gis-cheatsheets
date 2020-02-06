@@ -7,8 +7,8 @@
 
 - [Common Conversions](#common-gis-conversions)
   - [Common Distance Units](#common-gis-distance-units)
-  - [Common Unit Conversions](#common-gis-unit-conversions)
-  - [Common Area Conversions](#common-gis-areal-conversions)
+  - [Common Linear Conversions](#common-gis-linear-conversions)
+  - [Common Areal Conversions](#common-gis-areal-conversions)
   - [Common Temperature Conversions](#common-temperature-conversions)
   - [Geographic Unit Conversions](#geographic-unit-conversions)
 - [U.S. Public Land Survey System (PLSS)](#us-public-land-survey-system)
