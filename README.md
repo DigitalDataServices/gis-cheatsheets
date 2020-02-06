@@ -46,7 +46,7 @@
 | 1 kilometer | 0.621371192 miles |
 | 1 kilometer | 3,280.8399 feet |
 
-<a href="#table-of-contents" align="right">Table of Contents</a>
+<div align="right"><a href="#table-of-contents">Table of Contents</a></div>
 
 ## Common GIS Distance Units
 
