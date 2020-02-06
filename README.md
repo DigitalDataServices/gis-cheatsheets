@@ -17,8 +17,9 @@
 
 # Common GIS Conversions
 
+## Common GIS Distance Units
 <details>
-<summary>## Common GIS Distance Units</summary>
+<summary><b>Expand Table</b></summary>
 
 | Unit | ArcMap Abbrev | Meters/Unit |
 | --- | :---: | :---: |
