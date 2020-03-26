@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-- [Common GIS Conversions](#common-gis-conversions)
+- [Common GIS Unit Conversions](#common-gis-unit-conversions)
   - [Common GIS Distance Units](#common-gis-distance-units)
   - [Common GIS Linear Conversions](#common-gis-linear-conversions)
   - [Common GIS Areal Conversions](#common-gis-areal-conversions)
@@ -13,7 +13,7 @@
   - [Township and Section subdivision and numbering in PLSS](#township-and-section-subdivision-and-numbering-in-plss)
 
 
-# Common GIS Conversions
+# Common GIS Unit Conversions
 
 ### Common GIS Distance Units
 
@@ -42,7 +42,7 @@
 
 ### Common GIS Linear Conversions
 
-| Linear Conversions | |
+| | |
 | --- | :---: |
 | 1 inch | 0.0254 meters |
 | 1 foot, International | 12 inches |
@@ -71,7 +71,7 @@
 <div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
 ### Common GIS Areal Conversions
-| Area Conversions | |
+| | |
 | --- | :---: |
 | 1 foot<sup>2</sup> | 0.092003 meters<sup>2</sup> |
 | 1 meter<sup>2</sup> | 10.76391 feet<sup>2</sup> |
