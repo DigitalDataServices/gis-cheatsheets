@@ -8,6 +8,7 @@
   - [Common GIS Areal Conversions](#common-gis-areal-conversions)
   - [Common Temperature Conversions](#common-temperature-conversions)
   - [Geographic Unit Conversions](#geographic-unit-conversions)
+- [GIS Direction Systems and Units](#gis-direction-systems-and-units)
 - [U.S. Public Land Survey System (PLSS)](#us-public-land-survey-system-plss)
   - [PLSS Meridians of the conterminous United States](#plss-meridians-of-the-conterminous-united-states)
   - [Township and Section subdivision and numbering in PLSS](#township-and-section-subdivision-and-numbering-in-plss)
@@ -128,6 +129,10 @@ Convert to and from degrees-minutes-seconds (DMS) to decimal degrees (DD).
 | 0&deg; 52' 30" | 0.875 |
 | 0&deg; 55' 00" | 0.916667 |
 | 0&deg; 57' 30" | 0.958333 |
+
+<div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
+
+# GIS Direction Systems and Units
 
 <div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
