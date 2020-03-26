@@ -101,9 +101,33 @@
 
 ### Geographic Unit Conversions
 
-| Min Sec | DD Fraction |
+Convert to and from degrees-minutes-seconds (DMS) to decimal degrees (DD).
+
+| Deg-Min-Sec | Decimal Degrees |
 | :---: | :---: |
-| 2'30" | 0.041667 |
+| 0&deg; 02' 30" | 0.041667 |
+| 0&deg; 05' 00" | 0.083333 |
+| 0&deg; 07' 30" | 0.125 |
+| 0&deg; 10' 00" | 0.166667 |
+| 0&deg; 12' 30" | 0.208333 |
+| 0&deg; 15' 00" | 0.25 |
+| 0&deg; 17' 30" | 0.291667 |
+| 0&deg; 20' 00" | 0.333333 |
+| 0&deg; 22' 30" | 0.375 |
+| 0&deg; 25' 00" | 0.416667 |
+| 0&deg; 27' 30" | 0.458333 |
+| 0&deg; 30' 00" | 0.5 |
+| 0&deg; 32' 30" | 0.541667 |
+| 0&deg; 35' 00" | 0.583333 |
+| 0&deg; 37' 30" | 0.625 |
+| 0&deg; 40' 00" | 0.666667 |
+| 0&deg; 42' 30" | 0.708333 |
+| 0&deg; 45' 00" | 0.75 |
+| 0&deg; 47' 30" | 0.791667 |
+| 0&deg; 50' 00" | 0.833333 |
+| 0&deg; 52' 30" | 0.875 |
+| 0&deg; 55' 00" | 0.916667 |
+| 0&deg; 57' 30" | 0.958333 |
 
 <div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
