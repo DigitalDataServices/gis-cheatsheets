@@ -188,7 +188,7 @@ radians, gradians, and gons.
 
 ### ArcGIS Scripting Quick Reference
 
-#### Math Operators
+#### ArcGIS Scripting Math Operators
 
 | Operator | Description | Arcade | Python | VBScript | 
 | --- | --- | :---: | :---: | :---: | 
@@ -198,7 +198,7 @@ radians, gradians, and gons.
 
 <div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
-#### String Operators
+#### ArcGIS Scripting String Operators
 
 | Operator | Description | Arcade | Python | VBScript | 
 | --- | --- | :---: | :---: | :---: | 
@@ -208,7 +208,7 @@ radians, gradians, and gons.
 
 <div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
-#### Comparison Operators
+#### ArcGIS Scripting Comparison Operators
 
 | Operator | Description | Arcade | Python | VBScript | 
 | --- | --- | :---: | :---: | :---: | 
@@ -221,7 +221,7 @@ radians, gradians, and gons.
 
 <div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
-#### Logical Operators
+#### ArcGIS Scripting Logical Operators
 
 | Operator | Description | Arcade | Python | VBScript | 
 | --- | --- | :---: | :---: | :---: | 
@@ -231,7 +231,7 @@ radians, gradians, and gons.
 
 <div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
-#### Data Type Conversion Functions
+#### ArcGIS Scripting Data Type Conversion Functions
 
 | Data Type | Description | Arcade | Python | VBScript | 
 | --- | --- | :---: | :---: | :---: | 
@@ -242,7 +242,7 @@ radians, gradians, and gons.
 
 <div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
-#### Mathematical Functions
+#### ArcGIS Scripting Mathematical Functions
 
 | Function | Description | Arcade | Python | VBScript | 
 | --- | --- | :---: | :---: | :---: | 
@@ -262,7 +262,7 @@ radians, gradians, and gons.
 
 <div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
-#### String Functions
+#### ArcGIS Scripting String Functions
 
 | Function | Description | Arcade | Python | VBScript | 
 | --- | --- | :---: | :---: | :---: | 
@@ -281,7 +281,7 @@ radians, gradians, and gons.
 
 <div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
-#### String Functions
+#### ArcGIS Scripting Date Functions
 
 | Function | Description | Arcade | Python | VBScript | 
 | --- | --- | :---: | :---: | :---: | 
