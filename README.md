@@ -16,6 +16,14 @@
   - [Common Data Types Supported by ArcGIS](#common-data-types-supported-by-arcgis)
   - [Precision versus Scale versus Length](#arcgis-precision-versus-scale-versus-length)
   - [ArcGIS Scripting Quick Reference](#arcgis-scripting-quick-reference)
+    - [Math Operators](#arcgis-scripting-math-operators)
+    - [String Operators](#arcgis-scripting-string-operators)
+    - [Comparison Operators](#arcgis-scripting-comparison-operators)
+    - [Logical Operators](#arcgis-scripting-logical-operators)
+    - [Data Type Conversion Functions](#arcgis-scripting-data-type-conversion-functions)
+    - [Mathematical Functions](#arcgis-scripting-mathematical-functions)
+    - [String Functions](#arcgis-scripting-string-functions)
+    - [Date Functions](#arcgis-scripting-date-functions)
 
 
 
