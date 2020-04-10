@@ -26,6 +26,7 @@
     - [Date Functions](#arcgis-scripting-date-functions)
  - [Coordinate and Projection Systems](#coordinate-and-projection-systems)
    - [UTM Zones of the World](#utm-zones-of-the-world)
+ - [Common Map Scales and Equivalents](#common-map-scales-and-equivalents)
 
 
 
@@ -356,3 +357,5 @@ radians, gradians, and gons.
 | 1:147,914,388 | 1 in ~ 2,335 mi<br>1 cm ~ 1,479 km |              | Web Map Zoom Level 2 (a subcontinental area) |
 | 1:295,828,755 | 1 in ~ 4,669 mi<br>1 cm ~ 2,958 km | &darr;       | Web Map Zoom Level 1 |
 | 1:591,657,551 | 1 in ~ 9,338 mi<br>1 cm ~ 5,917 km | Small Scale  | Web Map Zoom Level 0 (the whole world)|  
+
+<div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
