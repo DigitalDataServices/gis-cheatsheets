@@ -310,3 +310,13 @@ radians, gradians, and gons.
 <div class="iframe_container">
     <iframe src="https://developers.arcgis.com/javascript/latest/sample-code/layers-geojson/live/index.html"></iframe>
 </div>
+
+# Common Map Scales and Equivalents
+
+| Map Scale | Arch/Engineering Scale | Visual Scale | Examples |
+| :---: | :---: | :---: | --- |
+|   1:564 | 1 in = 47 ft<br>1 cm = 5.64 m | Large Scale | Web Map Zoom Level 20 |
+| 1:1,000 | 1 in ~ 83.33 ft<br>1 cm = 10 m | &uarr; |  |
+| 1:1,128 | 1 in = 94 ft |  | Web Map Zoom Level 19 |
+| 1:1,200 | 1 in = 100 ft |  | Site Plan / Plan and Profiles |
+| 
