@@ -333,10 +333,10 @@ radians, gradians, and gons.
 |      1:12,000 | 1 in = 1,000 ft<br>1 cm = 120 m    | Large Scale  |  |
 |      1:18,056 | 1 in ~ 1,505 ft<br>1 cm ~ 181 m    | &uarr;              | Web Map Zoom Level 15 (a rural road) |
 |      1:24,000 | 1 in = 2,000 ft<br>1 cm = 240 m    |              | Used in USGS 7.5-minute topographic maps |
-|      1:25,000 | 1 in ~ 2,083 ft<br>1 cm = 250 m    |              | Commonly used in many Canadian, European, US Military and USGS 7.5 x 15-minute topographic maps |
+|      1:25,000 | 1 in ~ 2,083 ft<br>1 cm = 250 m    |              | Commonly used in many Canadian, European, US Military<br>and USGS 7.5 x 15-minute topographic maps |
 |      1:31,680 | 1 in = 0.5 mi<br>1 cm ~ 317 m      |              |  |
 |      1:36,112 | 1 in ~ 0.57 mi<br>1 cm ~ 361 m     | &darr;       | Web Map Zoom Level 14 |
-|      1:50,000 | 1 in ~ 0.79 mi<br>1 cm = 0.5 km    | Medium Scale | Commonly used in Canadian, European, US Military, and USGS County maps |
+|      1:50,000 | 1 in ~ 0.79 mi<br>1 cm = 0.5 km    | Medium Scale | Commonly used in Canadian, European, US Military,<br>and USGS County maps |
 |      1:62,500 | 1 in ~ 0.99 mi<br>1 cm = 625 m     | &uarr;              | Used in USGS 15-minute topographic maps |
 |      1:63,600 | 1 in = 1 mi<br>1 cm = 636 m        |              | Used in USGS 15-minnute Alaska series topographic maps |
 |      1:72,224 | 1 in ~ 1.14 mi<br>1 cm ~ 722 m     |              | Web Map Zoom Level 13 (a village or suburb) |
