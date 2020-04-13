@@ -72,8 +72,8 @@ includes a link to EPSG.io with filtered results to make finding associated EPSG
 
 ## US NAD 1927 State Plane Zones
 
-Click on the image to link to a basic map of all the NAD 1983 State Plane Zones in the United States. Each zone map tip 
-includes a link to EPSG.io with filtered results to make finding associated EPSG/WKID codes easier.
+Click on the image to link to a basic map of all the NAD 1983 State Plane Zones in the United States. *NOTE: Only 
+Hawaii and Michigan have registered EPSG codes. Links to EPSG.io have been disabled*
 [![UTM Zones of the World](../.imgs/us_stateplane_nad27.png)](https://www.geowidgets.io/us-nad-1927-state-plane-zones/)
 
 <div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="README.md#table-of-contents">Main</a></div>
