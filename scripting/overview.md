@@ -21,7 +21,7 @@
 | Modulus | Returns the remainder of `x` divided by `y` | `x % y` | `x % y` | `x mod y` |
 | Exponent | Returns the values `x` raised to the power of `y` | `x ** y` | `x ** y` | `x ^ y` |
 
-<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="README.md#table-of-contents">Main</a></div>
+<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="../README.md#table-of-contents">Main</a></div>
 
 #### ArcGIS Scripting String Operators
 
@@ -31,7 +31,7 @@
 | CR/LF | Adds a carriage return and line feed to a string | `\n` | `\r\n` | `vbCRLF` |
 | Line Feed | Adds a line feed to a string | `\n` | `\n` | `vbNewLine` |
 
-<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="README.md#table-of-contents">Main</a></div>
+<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="../README.md#table-of-contents">Main</a></div>
 
 #### ArcGIS Scripting Comparison Operators
 
@@ -44,7 +44,7 @@
 | Greater than or equal to | If `x` is greater than or equal to `y` returns `true` else `false` | `x > y` | `x > y` | `x > y` | 
 | Less than or equal to | If `x` is less than or equal to `y` returns `true` else `false` | `x > y` | `x > y` | `x > y` | 
 
-<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="README.md#table-of-contents">Main</a></div>
+<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="../README.md#table-of-contents">Main</a></div>
 
 #### ArcGIS Scripting Logical Operators
 
@@ -54,7 +54,7 @@
 | and | Returns `true` if both given values return `true` | `a && b` | `a and b` | `a And b` |
 | not | Returns `true` the values do not return `true` | <code>a &#124; b</code> | `a not b` | `a Not b` |
 
-<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="README.md#table-of-contents">Main</a></div>
+<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="../README.md#table-of-contents">Main</a></div>
 
 #### ArcGIS Scripting Data Type Conversion Functions
 
@@ -65,7 +65,7 @@
 | Integer | Returns an `integer` data type | `Number()` | `int()` | `CInt()` |
 | String | Returns a `string` data type | `Text()` | `str()` | `CStr()` |
 
-<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="README.md#table-of-contents">Main</a></div>
+<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="../README.md#table-of-contents">Main</a></div>
 
 #### ArcGIS Scripting Mathematical Functions
 
@@ -85,7 +85,7 @@
 | Square Root | Returns the square root of a number (`n`) | `Sqrt(n)` | `math.sqrt(n)` | `Sqr(n)` |
 | Sum | Returns the sum of an array of numbers (`[n]`) | `Sum([n])` | `sum([n])` | - |
 
-<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="README.md#table-of-contents">Main</a></div>
+<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="../README.md#table-of-contents">Main</a></div>
 
 #### ArcGIS Scripting String Functions
 
@@ -104,7 +104,7 @@
 | Trim | Removes spaces from the beginning and end of a string (`a`) | `Trim(a)` | `a.strip()` | `Trim(a)` |
 | Uppercase | Converts text (`a`) to upper case characters | `Upper(a)` | `a.upper()` | `UCase(a)` |
 
-<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="README.md#table-of-contents">Main</a></div>
+<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="../README.md#table-of-contents">Main</a></div>
 
 #### ArcGIS Scripting Date Functions
 
@@ -116,4 +116,4 @@
 | Timestamp | Returns the current date and time in UTC time | `Timestamp()` | `datetime.utcnow()` | - |
 | Today | Returns the current date in local time | `Today()` | `datetime.today()` | `Date()` |
 
-<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="README.md#table-of-contents">Main</a></div>
+<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="../README.md#table-of-contents">Main</a></div>
