@@ -7,6 +7,9 @@
   - [UTM Zones of the World](geodesy/overview.md#utm-zones-of-the-world)
   - [US NAD 1983 State Plane Zones](geodesy/overview.md#us-nad-1983-state-plane-zones)
   - [US NAD 1927 State Plane Zones](geodesy/overview.md#us-nad-1927-state-plane-zones)
+  - [U.S. Public Land Survey System (PLSS)](geodesy/us-public-land-survey-system.md#us-public-land-survey-system-plss)
+    - [PLSS Meridians of the conterminous United States](geodesy/us-public-land-survey-system.md#plss-meridians-of-the-conterminous-united-states)
+    - [Township and Section subdivision and numbering in PLSS](geodesy/us-public-land-survey-system.md#township-and-section-subdivision-and-numbering-in-plss)
 - [**Scripting**](scripting/overview.md#scripting)
   - [ArcGIS Scripting Quick Reference](scripting/overview.md#arcgis-scripting-quick-reference)
     - [Math Operators](scripting/overview.md#arcgis-scripting-math-operators)
@@ -28,9 +31,7 @@
   - [Common GIS Areal Conversions](units/overview.md#common-gis-areal-conversions)
   - [Common Temperature Conversions](units/overview.md#common-temperature-conversions)
   - [Geographic Unit Conversions](units/overview.md#geographic-unit-conversions)
-- [U.S. Public Land Survey System (PLSS)](#us-public-land-survey-system-plss)
-  - [PLSS Meridians of the conterminous United States](#plss-meridians-of-the-conterminous-united-states)
-  - [Township and Section subdivision and numbering in PLSS](#township-and-section-subdivision-and-numbering-in-plss)
+
 
 
 
