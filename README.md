@@ -31,7 +31,7 @@
   - [Common GIS Areal Conversions](units/overview.md#common-gis-areal-conversions)
   - [Common Temperature Conversions](units/overview.md#common-temperature-conversions)
   - [Geographic Unit Conversions](units/overview.md#geographic-unit-conversions)
-- [**Other Useful External Resources**](other/overview.md)
+- [**Other Useful External Resources**](other/overview.md#contents)
 
 
 
