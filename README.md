@@ -2,6 +2,11 @@
 
 # Table of Contents
 
+- [geodesy](geodesy/overview.md)
+  - [Common Map Scales and Equivalents](geodesy/overview.md#common-map-scales-and-equivalents)
+  - [UTM Zones of the World](geodesy/overview.md#utm-zones-of-the-world)
+  - [US NAD 1983 State Plane Zones](geodesy/overview.md#us-nad-1983-state-plane-zones)
+  - [US NAD 1927 State Plane Zones](geodesy/overview.md#us-nad-1927-state-plane-zones)
 - [Common GIS Unit Conversions](#common-gis-unit-conversions)
   - [Common GIS Distance Units](#common-gis-distance-units)
   - [Common GIS Linear Conversions](#common-gis-linear-conversions)
