@@ -6,8 +6,8 @@
 ## ArcGIS
 
 ## Cartography
-- [ColorBrewer](http://colorbrewer2.org/){:target="_blank"}
-- [TypeBrewer](http://typebrewer.org/){:target="_blank"}
+- [ColorBrewer](http://colorbrewer2.org/?target="_blank")
+- [TypeBrewer](http://typebrewer.org/)
 
 ## Geocortex by VertiGIS
 
