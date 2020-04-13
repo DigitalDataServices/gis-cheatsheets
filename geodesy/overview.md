@@ -52,7 +52,7 @@
 | 1:295,828,755 | 1 in ~ 4,669 mi<br>1 cm ~ 2,958 km | &darr;       | Web Map Zoom Level 1 |
 | 1:591,657,551 | 1 in ~ 9,338 mi<br>1 cm ~ 5,917 km | Small Scale  | Web Map Zoom Level 0 (the whole world)|  
 
-<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="README.md#table-of-contents">Main</a></div>
+<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="../README.md#table-of-contents">Main</a></div>
 
 ## UTM Zones of the World
 
@@ -60,7 +60,7 @@ Click on the image to link to a basic map of all the UTM zones of the world. Eac
 EPSG.io with filtered results to make finding EPSG/WKID codes easier.
 [![UTM Zones of the World](../.imgs/utm_zones.png)](https://www.geowidgets.io/utm-zones-of-the-world/)
 
-<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="README.md#table-of-contents">Main</a></div>
+<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="../README.md#table-of-contents">Main</a></div>
 
 ## US NAD 1983 State Plane Zones
 
@@ -68,7 +68,7 @@ Click on the image to link to a basic map of all the NAD 1983 State Plane Zones 
 includes a link to EPSG.io with filtered results to make finding associated EPSG/WKID codes easier.
 [![UTM Zones of the World](../.imgs/us_stateplane_nad83.png)](https://www.geowidgets.io/us-nad-1983-state-plane-zones/)
 
-<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="README.md#table-of-contents">Main</a></div>
+<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="../README.md#table-of-contents">Main</a></div>
 
 ## US NAD 1927 State Plane Zones
 
@@ -76,4 +76,4 @@ Click on the image to link to a basic map of all the NAD 1983 State Plane Zones 
 Hawaii and Michigan have registered EPSG codes. Links to EPSG.io have been disabled*
 [![UTM Zones of the World](../.imgs/us_stateplane_nad27.png)](https://www.geowidgets.io/us-nad-1927-state-plane-zones/)
 
-<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="README.md#table-of-contents">Main</a></div>
+<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="../README.md#table-of-contents">Main</a></div>
