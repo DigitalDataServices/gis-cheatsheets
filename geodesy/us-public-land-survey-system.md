@@ -4,6 +4,7 @@
   - [PLSS Meridians of the conterminous United States](#plss-meridians-of-the-conterminous-united-states)
   - [Township and Section subdivision and numbering in PLSS](#township-and-section-subdivision-and-numbering-in-plss)
 
+<div align="right">Table of Contents: <a href="../README.md#table-of-contents">Main</a></div>
 
 ## PLSS Meridians of the conterminous United States
 ![PLSS Meridians](../.imgs/plss_meridians.png)

@@ -5,6 +5,7 @@
   - [Precision versus Scale versus Length](#arcgis-precision-versus-scale-versus-length)
   - [ArcGIS Direction Systems and Units](#arcgis-direction-systems-and-units)
 
+<div align="right">Table of Contents: <a href="../README.md#table-of-contents">Main</a></div>
 
 ### Common Data Types Supported by ArcGIS
 

@@ -5,6 +5,8 @@
   - [UTM Zones of the World](#utm-zones-of-the-world)
   - [US NAD 1983 State Plane Zones](#us-nad-1983-state-plane-zones)
   - [US NAD 1927 State Plane Zones](#us-nad-1927-state-plane-zones)
+  
+<div align="right">Table of Contents: <a href="../README.md#table-of-contents">Main</a></div>
 
 ## Common Map Scales and Equivalents
 

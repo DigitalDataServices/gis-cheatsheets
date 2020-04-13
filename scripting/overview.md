@@ -11,6 +11,8 @@
     - [String Functions](#arcgis-scripting-string-functions)
     - [Date Functions](#arcgis-scripting-date-functions)
 
+<div align="right">Table of Contents: <a href="../README.md#table-of-contents">Main</a></div>
+
 ## ArcGIS Scripting Quick Reference
 
 #### ArcGIS Scripting Math Operators
