@@ -1,6 +1,6 @@
 
 
-# Table of Contents
+## Table of Contents
 
 - [**Geodesy**](geodesy/overview.md#geodesy)
   - [Common Map Scales and Equivalents](geodesy/overview.md#common-map-scales-and-equivalents)
@@ -31,6 +31,7 @@
   - [Common GIS Areal Conversions](units/overview.md#common-gis-areal-conversions)
   - [Common Temperature Conversions](units/overview.md#common-temperature-conversions)
   - [Geographic Unit Conversions](units/overview.md#geographic-unit-conversions)
+- [**Other Useful External Resources**](other/overview.md)
 
 
 
