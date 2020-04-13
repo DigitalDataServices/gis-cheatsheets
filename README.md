@@ -151,11 +151,11 @@ Convert to and from degrees-minutes-seconds (DMS) to decimal degrees (DD).
 # US Public Land Survey System (PLSS)
 
 ### PLSS Meridians of the conterminous United States
-![PLSS Meridians](./imgs/plss_meridians.png)
+![PLSS Meridians](.imgs/plss_meridians.png)
 <div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
 ### Township and Section subdivision and numbering in PLSS
-![PLSS Subdivision and Numbering](./imgs/plss-subdivision-numbering.png)
+![PLSS Subdivision and Numbering](.imgs/plss-subdivision-numbering.png)
 <div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
 # Esri ArcMap and ArcGIS Pro
@@ -164,7 +164,7 @@ Convert to and from degrees-minutes-seconds (DMS) to decimal degrees (DD).
 
 ArcGIS Pro and ArcMap support for direction systems for the constructions of features.
 
-![GIS Direction Systems](./imgs/gis-direction-systems.png)
+![GIS Direction Systems](.imgs/gis-direction-systems.png)
 
 In **ArcMap**, to change the direction system and/or units, select **Options** from the **Editor Toolbar**, then 
 select the **Units** tab. **ArcGIS Pro** integrates all four directions systems into its native editor by switching to
@@ -193,7 +193,7 @@ radians, gradians, and gons.
 
 ### ArcGIS Precision versus Scale versus Length
 
-![Precision vs Scale](./imgs/precision-scale.png)
+![Precision vs Scale](.imgs/precision-scale.png)
 
 <div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
@@ -304,12 +304,6 @@ radians, gradians, and gons.
 
 <div align="right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
-# Coordinate and Projection Systems
 
-### UTM Zones of the World
-
-<div class="iframe_container">
-    <iframe src="https://developers.arcgis.com/javascript/latest/sample-code/layers-geojson/live/index.html"></iframe>
-</div>
 
 
