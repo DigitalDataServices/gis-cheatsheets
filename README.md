@@ -1,6 +1,6 @@
+![gis cheatsheets banner](.imgs/gis-cheatsheet-banner.png)
 
-
-## Table of Contents
+### Table of Contents
 
 - [**Geodesy**](geodesy/overview.md#geodesy)
   - [Common Map Scales and Equivalents](geodesy/overview.md#common-map-scales-and-equivalents)
@@ -32,6 +32,11 @@
   - [Common Temperature Conversions](units/overview.md#common-temperature-conversions)
   - [Geographic Unit Conversions](units/overview.md#geographic-unit-conversions)
 - [**Other Useful External Resources**](other/overview.md#contents)
+
+### How to Contribute?
+
+If you want to contribute and make these cheatsheets better, your help is very welcome. Please submit changes via a 
+[pull request](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project) and we will review them before merging. 
 
 
 
