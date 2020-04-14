@@ -72,6 +72,7 @@
 
 - [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 - [JSONLint](https://jsonlint.com/)
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 
 <div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="../README.md#table-of-contents">Main</a></div>
 
