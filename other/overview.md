@@ -7,26 +7,33 @@
   - [GeoJSON](#geojson)
   - [Miscellaneous](#miscellaneous)
   - [Open Source](#open-source)
+  - [QGIS](#qgis)
 
 <div align="right">Table of Contents: <a href="../README.md#table-of-contents">Main</a></div>
 
 ## ArcGIS
 
-- ArcGIS Enterprise
+- [ArcGIS for Developers](https://developers.arcgis.com/)
+  - [Arcade](https://developers.arcgis.com/arcade/)
+  - [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/)
+    - [ArcGIS Symbol Playground](https://developers.arcgis.com/javascript/latest/sample-code/playground/live/index.html)
+  - [ArcGIS API for Silverlight](https://developers.arcgis.com/silverlight/api-reference/)
+  - [ArcGIS API for Python](https://developers.arcgis.com/python/)
+  - [ArcGIS Pro Python Reference](https://pro.arcgis.com/en/pro-app/arcpy/main/arcgis-pro-arcpy-reference.htm)
+  - [ArcGIS REST API](https://developers.arcgis.com/rest/)
+  - [ArcPy](https://desktop.arcgis.com/en/arcmap/latest/analyze/arcpy/what-is-arcpy-.htm)
+  - [Esri Github](https://esri.github.io/)
+    - [ArcGIS Arcade Expression](https://github.com/Esri/arcade-expressions)
+    - [Calcite Maps](https://github.com/Esri/calcite-maps)
+- [ArcGIS Enterprise](https://enterprise.arcgis.com/en/)
   - [ArcGIS Enterprise Installation Guides](http://enterprise.arcgis.com/en/documentation/install/)
   - [ArcGIS Enterprise SDK Resources](https://github.com/Esri/arcgis-enterprise-sdk-resources)
-- ArcGIS Online
+- [ArcGIS Online](https://www.esri.com/en-us/arcgis/products/arcgis-online/resources)
   - [ArcGIS Online Assistant](https://ago-assistant.esri.com/)
-- ArcGIS Pro
+- [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)
   - [ArcGIS Pro 2.4 SDK for .NET Community Samples](https://github.com/Esri/arcgis-pro-sdk-community-samples)
-- ArcGIS API for JavaScript
-  - [ArcGIS Symbol Playground](https://developers.arcgis.com/javascript/latest/sample-code/playground/live/index.html)
-- [Esri Github](https://esri.github.io/)
-  - [ArcGIS Arcade Expression](https://github.com/Esri/arcade-expressions)
-  - [Calcite Maps](https://github.com/Esri/calcite-maps)
 - Misc
-  - [ArcGIS API for Silverlight](https://developers.arcgis.com/silverlight/api-reference/)
-  - [ArcGIS REST API](https://developers.arcgis.com/rest/)
+  - [ArcGIS Documentation](https://doc.arcgis.com/en/) - Main index of all ArcGIS documentation
   - [ArcGIS Vector Tile Style Editor](https://developers.arcgis.com/vector-tile-style-editor/)
   
 <div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="../README.md#table-of-contents">Main</a></div>
@@ -80,5 +87,14 @@
 
 - [Data Science Toolkit](http://www.datasciencetoolkit.org/)
 - [Orfeo ToolBox](https://www.orfeo-toolbox.org/) - Open source processing of remote sensing images
+- [Whitebox Geospatial Analysis Tools](https://jblindsay.github.io/ghrg/Whitebox/)
+
+<div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="../README.md#table-of-contents">Main</a></div>
+
+## QGIS
+
+- [QGIS](https://www.qgis.org/en/site/)
+- [QGIS Tutorials and Tips](https://www.qgistutorials.com/en/)
+- [PyQGIS Developer Cookbook](https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/)
 
 <div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="../README.md#table-of-contents">Main</a></div>
