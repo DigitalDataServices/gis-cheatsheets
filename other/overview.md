@@ -78,6 +78,8 @@
 ## Miscellaneous
 
 - [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+- [Database Answers](http://www.databaseanswers.org/data_models/) - Extensive list of industry-specific data models.
+- [generatedata.com](https://www.generatedata.com/) - Site that generates fake data including limited geospatial types.
 - [JSONLint](https://jsonlint.com/)
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 
