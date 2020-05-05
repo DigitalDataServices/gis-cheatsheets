@@ -69,7 +69,7 @@
 | --- | :---: |
 | 1 foot<sup>2</sup> | 0.092003 meters<sup>2</sup> |
 | 1 meter<sup>2</sup> | 10.76391 feet<sup>2</sup> |
-| 1 acre | 43,650 feet<sup>2</sup> |
+| 1 acre | 43,560 feet<sup>2</sup> |
 | 1 acre | 4,046.856 meters<sup>2</sup> |
 | 1 acre | 0.404686 hectares |
 | 1 acre | 160 rods<sup>2</sup> |
