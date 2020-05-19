@@ -56,6 +56,7 @@
 
 - Documentation
   - [Geocortex Documentation Center](https://docs.geocortex.com/)
+  - [Geocortex Developer Center](https://developers.geocortex.com/)
   - [Geocortex Essentials Viewer Commands and Events](https://docs.geocortex.com/essentials/gvh/latest/commands-help/#/)
 - Demonstration Sites
   - [Geocortex Demonstration Sites](http://gedemo.geocortex.com/GeocortexDemos/)
