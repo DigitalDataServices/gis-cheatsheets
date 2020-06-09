@@ -43,8 +43,8 @@
 | Not Equal to | If `x` is not equal to `y` returns `true` else `false` | `x != y` | `x != y` | `x <> y` |
 | Greater than | If `x` is greater than `y` returns `true` else `false` | `x > y` | `x > y` | `x > y` | 
 | Less than | If `x` is less than `y` returns `true` else `false` | `x < y` | `x < y` | `x < y` | 
-| Greater than or equal to | If `x` is greater than or equal to `y` returns `true` else `false` | `x > y` | `x >= y` | `x > y` | 
-| Less than or equal to | If `x` is less than or equal to `y` returns `true` else `false` | `x < y` | `x <= y` | `x < y` | 
+| Greater than or equal to | If `x` is greater than or equal to `y` returns `true` else `false` | `x >= y` | `x >= y` | `x >= y` | 
+| Less than or equal to | If `x` is less than or equal to `y` returns `true` else `false` | `x <= y` | `x <= y` | `x <= y` | 
 
 <div align="right">Table of Contents: <a href="#contents">Section</a> | <a href="../README.md#table-of-contents">Main</a></div>
 
