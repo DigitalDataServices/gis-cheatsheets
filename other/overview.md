@@ -58,6 +58,8 @@
   - [Geocortex Documentation Center](https://docs.geocortex.com/)
   - [Geocortex Developer Center](https://developers.geocortex.com/)
   - [Geocortex Essentials Viewer Commands and Events](https://docs.geocortex.com/essentials/gvh/latest/commands-help/#/)
+- Free Tools
+  - [Geocortex Item Manager](https://apps.geocortex.com/itemmanager) - VertiGIS alternative to ArcGIS Online Assistant
 - Demonstration Sites
   - [Geocortex Demonstration Sites](http://gedemo.geocortex.com/GeocortexDemos/)
   - [Geocortex Workflow Sample Site](https://gedemo.geocortex.com/Html5Viewer/index.html?viewer=GXWF_Sample_Site.GVH)
