@@ -2,6 +2,8 @@
 
 | Web Browser | Windows | Apple |
 | ----- | :-----: | :---: |
-| Google Chrome | <kbd>crtl</kbd> | |
+| Google Chrome | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd><br><kbd>Ctrl</kbd> + <kbd>F5</kbd> | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> |
 | Mozilla Firefox | | |
-| Microsoft Edge | 
+| Microsoft Edge | | |
+| Apple Safari | | |
+| Internet Explorer | | |
